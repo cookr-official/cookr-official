@@ -2,3 +2,4 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Android, iOS App Development and web development in Python Django and HTML
 - 📫 You can reach me via email: jainpranit@outlook.com
+- 🏫 I'm currently studying in NPS International School Singapore
